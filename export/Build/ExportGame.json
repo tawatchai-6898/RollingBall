@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll_A_Ball",
+"productVersion": "1.0",
+"dataUrl": "ExportGame.data.unityweb",
+"wasmCodeUrl": "ExportGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "ExportGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
